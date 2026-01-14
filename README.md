@@ -1,2 +1,2 @@
 # LSGS
-Knowledge Concept Tagging
+Multi-label Knowledge Concept Tagging
